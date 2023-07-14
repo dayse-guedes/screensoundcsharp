@@ -49,7 +49,7 @@ void ExibirMenu()
             break;
         case 3: AvaliarBanda();
             break;
-        case 4: Console.WriteLine("Voce escolheu a opção " + opcaoEscolhidaNumerica);
+        case 4: ExibirMedia();
             break;
         case -1: Console.WriteLine("Adeus querida! ");
             break;
@@ -132,6 +132,26 @@ void AvaliarBanda()
 
     }
 
+}
+
+void ExibirMedia()
+{
+    Console.Clear();
+    ExibirTituloDaOpcao("Exibir media da banda");
+    Console.Write("Digite o nome da banda que deseja exibir a média: ");
+    string nomeDaBanda = Console.ReadLine()!;
+
+    if(bandasRegistradas.ContainsKey(nomeDaBanda))
+    {
+
+    } else
+    {
+        Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
+        Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+        Console.ReadKey();
+        Console.Clear();
+        ExibirMenu();
+    }
 }
 
 ExibirLogo();
