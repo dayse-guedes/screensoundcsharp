@@ -3,7 +3,6 @@ C:\Users\user\source\repos\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.
 C:\Users\user\source\repos\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.runtimeconfig.json
 C:\Users\user\source\repos\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.dll
 C:\Users\user\source\repos\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.pdb
-C:\Users\user\source\repos\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\source\repos\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfo.cs

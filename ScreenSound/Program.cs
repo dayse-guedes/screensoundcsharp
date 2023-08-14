@@ -144,7 +144,11 @@ void ExibirMedia()
     if(bandasRegistradas.ContainsKey(nomeDaBanda))
     {
         List<int> notasDaBanda = bandasRegistradas[nomeDaBanda];
-        Console.WriteLine($"A média da banda {nomeDaBanda} é {notasDaBanda.Average()}. ");
+        Console.WriteLine($"\nA média da banda {nomeDaBanda} é {notasDaBanda.Average()}. ");
+        Console.WriteLine("Digite qualquer tecla para voltar ao menu principal.");
+        Console.ReadKey();
+        Console.Clear();
+        ExibirMenu();
 
     } else
     {
