@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\telasom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\telasom.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\telasom.AssemblyInfo.cs
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\telasom.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\telasom\telasom\bin\Debug\net7.0\telasom.exe
+C:\Users\user\source\repos\telasom\telasom\bin\Debug\net7.0\telasom.deps.json
+C:\Users\user\source\repos\telasom\telasom\bin\Debug\net7.0\telasom.runtimeconfig.json
+C:\Users\user\source\repos\telasom\telasom\bin\Debug\net7.0\telasom.dll
+C:\Users\user\source\repos\telasom\telasom\bin\Debug\net7.0\telasom.pdb
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\telasom.dll
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\refint\telasom.dll
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\telasom.pdb
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\telasom.genruntimeconfig.cache
+C:\Users\user\source\repos\telasom\telasom\obj\Debug\net7.0\ref\telasom.dll
